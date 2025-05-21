@@ -1,0 +1,19 @@
+{
+    "profile_picture": "./assets/img/logo.jpg",
+    "username": "@Fujiwara Creative",
+    "description": "",
+    "links": [
+        {
+            "name": "Portofolio",
+            "url": "https://dhamarputra.github.io/portofolio/"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/damarp_p/"
+        },
+        {
+            "name": "Digital Product",
+            "url": "https://lynk.id/pki-k2"
+        }
+    ]
+}
