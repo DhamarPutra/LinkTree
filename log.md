@@ -1,3 +1,3 @@
-WIB: Thursday, 08 October 2026 04.43.26 UTC
-WITA: Thursday, 08 October 2026 05.43.26 UTC
-WIT: Thursday, 08 October 2026 06.43.26 UTC
+WIB: Thursday, 08 October 2026 08.30.06 UTC
+WITA: Thursday, 08 October 2026 09.30.06 UTC
+WIT: Thursday, 08 October 2026 10.30.06 UTC
